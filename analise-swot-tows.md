@@ -47,3 +47,8 @@ Este documento apresenta o diagnóstico situacional e o alinhamento estratégico
   - Aplicativo nativo mobile (iOS/Android).
 
 ---
+## Equipe
+- PO: Leonardo
+- DEV: Wagner
+- DEV: Jhenyfer
+- DEV: Roberta
